@@ -1,0 +1,29 @@
+# Node.js
+node_modules/
+
+# Compiled output
+dist/
+build/
+out/
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Dependency directories
+.pnpm/
+yarn-error.log
+yarn.lock
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Visual Studio Code
+.vscode/
+
+# Next.js
+.next/
